@@ -1,5 +1,6 @@
 # VDIDE: Vortex Dynamics-inspired Single-Image Detail Enhancement
 This is the source code of paper named "Vortex Dynamics-inspired Single-Image Detail Enhancement". This paper is submitted to IEEE Knowledge-Based Systems.
+
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2024b+-blue.svg)](https://www.mathworks.com/products/matlab.html)
 
 This repository provides the official MATLAB implementation of the **VDIDE** algorithm, as described in the research paper:
