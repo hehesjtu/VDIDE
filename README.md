@@ -1,5 +1,5 @@
 # VDIDE: Vortex Dynamics-inspired Single-Image Detail Enhancement
-This is the source code of paper named "Vortex Dynamics-inspired Single-Image Detail Enhancement". This paper is submitted to IEEE Knowledge-Based Systems.
+This is the source code of paper named "Vortex Dynamics-inspired Single-Image Detail Enhancement". 
 
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2024b+-blue.svg)](https://www.mathworks.com/products/matlab.html)
 
